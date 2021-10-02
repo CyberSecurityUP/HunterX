@@ -1,7 +1,7 @@
 # HunterX
 King of Bug Bounty Tips Simple Tool
 
-##Command: 
+## Command: 
 
 bash main.sh
 
@@ -10,8 +10,8 @@ bash main.sh
 3 - Automation Recon
 4 - Credits
 
-##King of Bug Bounty Tips Repository
+## King of Bug Bounty Tips Repository
 
 https://github.com/KingOfBugbounty/KingOfBugBountyTips
 
-###Tool under construction and update
+### Tool under construction and update
