@@ -3,6 +3,8 @@ King of Bug Bounty Tips Simple Tool
 
 ## Command: 
 
+git clone https://github.com/CyberSecurityUP/HunterX
+
 bash main.sh
 
 1 - Install Requeriments
